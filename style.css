@@ -1,0 +1,91 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #1E2D2F;
+ 
+ 
+}
+
+.main-body{
+  background-color: #1E2D2F;
+   margin: 0 auto;
+   max-width: 90%;
+}
+
+img{
+   max-width: 100%;
+    height: auto;
+ 
+}
+
+#main-header, #main-header-history{
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
+  padding:30px;
+  background-color: #fa7e01;
+  width: 100%;
+}
+
+.navbar-brand{
+  padding: 30px;
+
+}
+
+.navbar-brand:hover{
+  transform: scale(1.1);
+}
+
+#main-body-history{
+  background-color: #1E2D2F;
+}
+
+#main-paragraph-history{
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  fonnt-size: 30px;
+  width: 800px;
+  
+}
+
+
+
+h2{
+  text-align: center;
+  background-color: #1E2D2F;
+  color: white;
+  font-family: 'Alfa Slab One', cursive;
+  max-width: 75%;
+  padding: 20px;
+  margin: 0 auto;
+  font-size: 4em;
+  
+}
+
+h4{
+  text-align: left;
+  background-color: #1E2D2F;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2em;
+}
+
+li{
+  text-align: left;
+  background-color: #1E2D2F;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  max-width: 75%;
+  padding: 5px;
+  margin: 0 auto;
+  font-size:2em;
+  
+}
+
+ul{
+  margin: 0 auto;
+  list-style-type: none;
+}
+
+
